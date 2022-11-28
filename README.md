@@ -11,7 +11,7 @@
 | Status | Plateform | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version | Lien vers le Microsoft Store |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | ![Status](https://img.shields.io/badge/Status-Disponible-green) | Console Xbox², PC | 10/11/2022 | 24/11/2022 | 3.2211.2022.0 | SociaLink™ | <a target="_blank" href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-3221120220--le-24-nov-2022">ChangeLogs</a> | [![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9MVJ546GBQ6L) |
-|:NaN/NaN:|:NaN/NaN:|:NaN/NaN:|:NaN/NaN:|:NaN/NaN:|:NaN/NaN:|:NaN/NaN:|
+|:NaN/NaN:|
 
 ## CONFIGURATION REQUISE :
 
