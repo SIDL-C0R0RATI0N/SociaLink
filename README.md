@@ -1,38 +1,22 @@
-# SociaLink
-The official repository of the social network "SociaLink™".
-
-> Check out <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/releases"> Releases</a>.
+> Check out <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/releases"> Releases SociaLink™</a>.
 
 ***
 [![Build](https://img.shields.io/github/package-json/v/SIDL-C0R0RATI0N/SociaLink?style=social)](https://github.com/SIDL-C0R0RATI0N/SociaLink)
 [![Release](https://img.shields.io/github/v/release/SIDL-C0R0RATI0N/SociaLink?include_prereleases&sort=date&style=social)](https://github.com/SIDL-C0R0RATI0N/SociaLink/releases)
-[![License](https://img.shields.io/github/license/SIDL-C0R0RATI0N/BLACKLISTED_IP?style=social)](LICENSE.md)
-[![Stars](https://img.shields.io/github/stars/SIDL-C0R0RATI0N/BLACKLISTED_IP?style=social)](https://github.com/SIDL-C0R0RATI0N/BLACKLISTED_IP/stargazers)
-[![Forks](https://img.shields.io/github/forks/SIDL-C0R0RATI0N/BLACKLISTED_IP?style=social)](https://github.com/SIDL-C0R0RATI0N/BLACKLISTED_IP/network/members)
-<br/>
+[![License](https://img.shields.io/github/license/SIDL-C0R0RATI0N/SociaLink?style=social)](LICENSE.md)
+[![Stars](https://img.shields.io/github/stars/SIDL-C0R0RATI0N/SociaLink?style=social)](https://github.com/SIDL-C0R0RATI0N/SociaLink/stargazers)
+[![Forks](https://img.shields.io/github/forks/SIDL-C0R0RATI0N/SociaLink?style=social)](https://github.com/SIDL-C0R0RATI0N/SociaLink/network/members)
 ***
-[![Followers](https://img.shields.io/github/followers/SIDL-C0R0RATI0N?style=social)](https://github.com/SIDL-C0R0RATI0N/)
-[![Twitter](https://img.shields.io/twitter/follow/SIDLCORPORATION?style=social)](https://www.twitter.com/SIDLCORPORATION)
-[![Facebook](https://img.shields.io/twitter/url?label=Follow%20us%20on%20Facebook&logo=facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fsidl.corporation.officiel)](https://www.facebook.com/sidl.corporation.officiel)
-[![Snapchat](https://img.shields.io/twitter/url?label=Add%20us%20on%20Snapchat&logo=snapchat&logoColor=yellow&style=social&url=https%3A%2F%2Fwww.snapchat.com%2Fadd%2Fsidlcorp.fr)](https://www.snapchat.com/add/sidlcorp.fr)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCRolHgaCdwHj_oaNXUWC-lg?style=social)](https://www.youtube.com/channel/UCRolHgaCdwHj_oaNXUWC-lg)
-[![Instagram](https://img.shields.io/twitter/url?label=Add%20us%20on%20Snapchat&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fsidl_corporation%2F)](https://www.instagram.com/sidl_corporation/)
-***
-
-
 
 ## LES NOUVEAUTÉS
 
-- [UPDATE] Mise à jour de la feuille de style.
-- [ADD] Ajout de la page de journale des mises à jours.
-- [FIX] Correction d'un problème lié à la feuille de style.
+- [N/A] N/A
 
 ## INSTALLATION & UTILISATION
   ### LES PREREQUIS :
-  * PHP: >= 5.6
-  * WebServer: Apache or Nginx
-  * Database: MySQL
-  * Wordpress: 6.0
+  * OS: Windows 10 (version18362.0 ou version supérieure).
+  * Plateforme: PC, Console Xbox.
+  * Architecture: X86, X64, ARM64.
 
 ## DESCRIPTION
 
