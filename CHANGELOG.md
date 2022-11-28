@@ -1,13 +1,9 @@
 # Journale des dernières mises à jour de l'application
 
 ## Version [3.2811.2022.70] (Xbox) | Le 28 Nov. 2022
-### Mise à jour cummulative de l'application Xbox.
+### Suppression de la version Xbox.
 
-- Corrections des problèmes lié aux appels vidéos & vocale,
-- Correction pour la version Console Xbox,
-- Mise à jour de sécurité,
-- Ajouts du Référentiel GitHub dans les paramètres,
-- Mise à jour des languages "Français, Espagnol, Anglais, Allemand".
+- La version n'est pour le moments plus disponible.
 
 ***
 
@@ -15,7 +11,7 @@
 ### Mise à jour cummulative de l'application PC.
 
 - Corrections des problèmes lié aux appels vidéos & vocale,
-- Correction pour la version Console Xbox,
+- La version Xbox ne seras plus mises à jour,
 - Mise à jour de sécurité,
 - Ajouts du Référentiel GitHub dans les paramètres,
 - Mise à jour des languages "Français, Espagnol, Anglais, Allemand".
