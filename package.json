@@ -1,0 +1,24 @@
+{
+    "name": "SociaLink",
+    "version": "3.2211.2022.0",
+    "main": "https://www.socialink.fr/",
+    "scripts": {
+        "open-app": "gulp open-app",
+        "start": "npm run open-app",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "watch": "gulp-watch"
+    },
+    "repository": {
+        "type": "web",
+        "url": "https://github.com/SIDL-C0R0RATI0N/SociaLink"
+    },
+    "keywords": [
+        "SIDL CORPORATION",
+        "SociaLink",
+        "SociaLink™",
+        "socialink",
+        "SOCIALINK™",
+        "SOCIALINK"
+    ],
+    "author": "SIDL CORPORATION <support@sidl-corporation.fr> (https://sidl-corporation.fr/)"
+}
