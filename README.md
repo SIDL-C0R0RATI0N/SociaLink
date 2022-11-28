@@ -13,6 +13,8 @@
 - [N/A] N/A
 
 ## INSTALLATION & UTILISATION
+| Build | Status | Badges | (per-arch) |
+|:-:|:-:|:-:|:-:|
   ### LES PREREQUIS :
   * OS: Windows 10 (version18362.0 ou version supérieure).
   * Plateforme: PC, Console Xbox.
