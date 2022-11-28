@@ -1,6 +1,6 @@
 # Journale des dernières mises à jour de l'application
 
-## Version [3.2811.2022.70] (Xbox) | Le 28 Nov. 2022
+## Version [NaN] (Xbox) | Le NaN
 ### Suppression de la version Xbox.
 
 - La version n'est pour le moments plus disponible.
