@@ -33,7 +33,7 @@
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
   | ~~Console Xbox~~², PC | Windows 10* | X86, X64, ARM64 | Clavier Intégré | Souris Intégré | Version 11 | 12 Go | 6 Go | Interaction tactile intégrée | Intel Core i9 | NVIDIA Ampere A100 |
   
-  > (* : Version 18362.0 ou supérieure).<br/>
+  > (* : Windows 10 version 18362.0 ou supérieure).<br/>
   > (² : La version Xbox seras ainsi indisponible lors de la mise à jour **3.2811.2022.0**). 
 
 ## FONCTIONNALITÉS :
