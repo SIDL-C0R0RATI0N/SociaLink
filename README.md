@@ -60,6 +60,7 @@ Le réseau SociaLink™, à ainsi penser aux Artistes et Influenceurs, pour leur
 |:-:|:-:|
 | Publié par | <a target="_blank" href="https://apps.microsoft.com/store/search?publisher=SIDL%20CORPORATION">SIDL CORPORATION</a> |
 | Date de sortie | 10/11/2022 |
+| Mise à jour | 24/11/2022 |
 | Catégorie | Social |
 | Taille approximative | 33,9 Mo |
 | Langues prises en charge | Allemand, Anglais, Espagnol, Français |
