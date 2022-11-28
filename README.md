@@ -3,7 +3,6 @@
 ***
 [![Build](https://img.shields.io/github/package-json/v/SIDL-C0R0RATI0N/SociaLink?style=social)](https://github.com/SIDL-C0R0RATI0N/SociaLink)
 [![Release](https://img.shields.io/github/v/release/SIDL-C0R0RATI0N/SociaLink?include_prereleases&sort=date&style=social)](https://github.com/SIDL-C0R0RATI0N/SociaLink/releases)
-[![License](https://img.shields.io/github/license/SIDL-C0R0RATI0N/SociaLink?style=social)](LICENSE.md)
 [![Stars](https://img.shields.io/github/stars/SIDL-C0R0RATI0N/SociaLink?style=social)](https://github.com/SIDL-C0R0RATI0N/SociaLink/stargazers)
 [![Forks](https://img.shields.io/github/forks/SIDL-C0R0RATI0N/SociaLink?style=social)](https://github.com/SIDL-C0R0RATI0N/SociaLink/network/members)
 ***
