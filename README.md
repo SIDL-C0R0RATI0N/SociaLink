@@ -25,13 +25,13 @@
   ### Minimum :
   | Disponible | Système d'exploitation | Architecture | Clavier | Souris | DirectX | Mémoire | Mémoire vidéo | Interaction tactile | Processeur | Processeur graphique |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-  | Console Xbox², PC | Windows 10* | X86, X64, ARM64 | Clavier Intégré | Souris Intégré | Version 9 | 750 Mo | 1 Go | Non Spécifié | Intel Core i7 | NVIDIA GeForce GT 620 |
+  | ~~Console Xbox~~², PC | Windows 10* | X86, X64, ARM64 | Clavier Intégré | Souris Intégré | Version 9 | 750 Mo | 1 Go | Non Spécifié | Intel Core i7 | NVIDIA GeForce GT 620 |
   
 
   ### Recommandé :
   | Disponible | Système d'exploitation | Architecture | Clavier | Souris | DirectX | Mémoire | Mémoire vidéo | Interaction tactile | Processeur | Processeur graphique |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-  | Console Xbox², PC | Windows 10* | X86, X64, ARM64 | Clavier Intégré | Souris Intégré | Version 11 | 12 Go | 6 Go | Interaction tactile intégrée | Intel Core i9 | NVIDIA Ampere A100 |
+  | ~~Console Xbox~~², PC | Windows 10* | X86, X64, ARM64 | Clavier Intégré | Souris Intégré | Version 11 | 12 Go | 6 Go | Interaction tactile intégrée | Intel Core i9 | NVIDIA Ampere A100 |
   
   > (* : Version 18362.0 ou supérieure).<br/>
   > (² : La version Xbox seras ainsi indisponible lors de la mise à jour **3.2811.2022.0**). 
@@ -89,6 +89,6 @@ Le réseau SociaLink™, à ainsi penser aux Artistes et Influenceurs, pour leur
 | Catégorie | Social |
 | Taille approximative | 33,9 Mo |
 | Langues prises en charge | Allemand, Anglais, Espagnol, Français |
-| Version PC | 3.2211.2022.0 |
-| Version Xbox | 3.2211.2022.70 |
+| Version PC | 3.2811.2022.0 |
+| Version Xbox | 3.2211.2022.70 (Indisponible) |
 
