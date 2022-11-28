@@ -36,7 +36,7 @@ Si vous souhaitez découvrir un nouvelle environnement, vous pouvez vous inscrir
 
 Le réseau SociaLink™, à ainsi penser aux Artistes et Influenceurs, pour leur attribuer une certification de compte. Découvrez dès maintenant les offres.
 
-### CAPTURE(S) D'ÉCRAN :
+## CAPTURE(S) D'ÉCRAN :
 
   ![Screenshot 0](https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/Screenshot/0.png)
   
