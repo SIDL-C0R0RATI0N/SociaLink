@@ -1,4 +1,4 @@
-> Check out <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/releases"> Releases SociaLink™</a>.
+> Microsoft Store : <a href="https://www.microsoft.com/store/apps/9MVJ546GBQ6L">Get the app</a>.
 
 ***
 [![Build](https://img.shields.io/github/package-json/v/SIDL-C0R0RATI0N/SociaLink?style=social)](https://github.com/SIDL-C0R0RATI0N/SociaLink)
@@ -8,13 +8,12 @@
 [![Forks](https://img.shields.io/github/forks/SIDL-C0R0RATI0N/SociaLink?style=social)](https://github.com/SIDL-C0R0RATI0N/SociaLink/network/members)
 ***
 
-## LES NOUVEAUTÉS
-
-- [N/A] N/A
+## LES DERNIÈRES MISES À JOURS :
+| Date de mise à jour | Version | Nom de l'application | Nouveautés dans la version | Lien vers le Microsoft Store |
+|:-:|:-:|:-:|:-:|:-:|
 
 ## INSTALLATION & UTILISATION
-| Build | Status | Badges | (per-arch) |
-|:-:|:-:|:-:|:-:|
+
   ### LES PREREQUIS :
   * OS: Windows 10 (version18362.0 ou version supérieure).
   * Plateforme: PC, Console Xbox.
