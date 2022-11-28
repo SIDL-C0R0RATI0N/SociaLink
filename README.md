@@ -30,6 +30,24 @@
   > (* : Version 18362.0 ou supérieure).<br/>
   > (² : La version Xbox seras ainsi disocié de la version PC à partir de la version **3.2811.2022.0**, ainsi, la version Xbox One seras **3.2811.2022.70**). 
 
+## FONCTIONNALITÉS :
+
+- Connexion & Inscription par email ou via les réseaux.
+- Fil d'actualité.
+- Messagerie instantané.
+- Création de page, groupe.
+- Vendre des articles via le Marketplace.
+- Système d'ajouts d'amis.
+- Système de signalement d'utilisateurs / Blocage.
+- Création de story (Sans durée d'expiration).
+- Création d'évènements.
+- Système d'abonnement pour les Artistes, Influenceurs.
+- Dark / Light mode.
+- Faire des appels Vocal/Vidéo.
+
+
+Et bien plus encore...
+
 ## DESCRIPTION :
 
 SociaLink™, le nouveau réseau social, à pour but de rendre le social plus libre, plus transparent, avec un choix de personnalisation plus avancé et une liberté d'expression. La communauté offre ainsi une assistance, et lors de votre inscription, vous souhaiteras la bienvenue sur le réseau. Le compte officiel du réseau publie régulièrement des nouveautés qui cible simplement le réseau social.
