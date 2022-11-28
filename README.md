@@ -10,8 +10,9 @@
 ## LES DERNIÈRES MISES À JOURS / VERSIONS :
 | Status | Plateform | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version | Lien vers le Microsoft Store |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ![Status](https://img.shields.io/badge/Disponible-green) | Console Xbox² | 10/11/2022 | NaN/NaN | 3.2811.2022.70 | SociaLink™ | <a target="_blank" href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-3281120220-xbox--le-24-nov-2022">En lire plus</a> | <!--[![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9MVJ546GBQ6L)--> |
+| ![Status](https://img.shields.io/badge/En-cours-orange) | PC | 10/11/2022 | NaN/NaN | 3.2811.2022.0 | SociaLink™ | <a target="_blank" href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-3281120220-pc--le-24-nov-2022">En lire plus</a> | <!--[![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9MVJ546GBQ6L)--> |
 | ![Status](https://img.shields.io/badge/Disponible-green) | Console Xbox², PC | 10/11/2022 | 24/11/2022 | 3.2211.2022.0 | SociaLink™ | <a target="_blank" href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-3221120220--le-24-nov-2022">En lire plus</a> | [![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9MVJ546GBQ6L) |
-||
 
 ## CONFIGURATION REQUISE :
 
@@ -64,5 +65,6 @@ Le réseau SociaLink™, à ainsi penser aux Artistes et Influenceurs, pour leur
 | Catégorie | Social |
 | Taille approximative | 33,9 Mo |
 | Langues prises en charge | Allemand, Anglais, Espagnol, Français |
-| Version | 3.2211.2022.0 |
+| Version PC | 3.2211.2022.0 |
+| Version Xbox | 3.2211.2022.70 |
 
