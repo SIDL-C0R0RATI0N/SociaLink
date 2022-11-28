@@ -10,11 +10,11 @@
 ## Version [3.2811.2022.0] (PC) | Le 28 Nov. 2022
 ### Mise à jour cummulative de l'application PC.
 
-- Corrections des problèmes lié aux appels vidéos & vocale,
-- La version Xbox ne seras plus mises à jour,
+- Correction des problèmes liés aux appels vidéo & vocaux,
+- La version Xbox ne sera plus mise à jour,
 - Mise à jour de sécurité,
-- Ajouts du Référentiel GitHub dans les paramètres,
-- Mise à jour des languages "Français, Espagnol, Anglais, Allemand".
+- Ajout du référentiel GitHub dans les paramètres,
+- Mise à jour des langues "Français, Espagnol, Anglais, Allemand".
 
 ***
 
