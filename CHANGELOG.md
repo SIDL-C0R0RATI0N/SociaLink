@@ -1,5 +1,15 @@
 # Journale des dernières mises à jour de l'application
 
+## Version [3.1012.2022.0] (PC) | Le 12 dec. 2022
+### Mise à jour cummulative de l'application PC.
+
+- Ajouts la langue Polonais,
+- Rendu disponible de l'application vers Windows 11,
+- Corriger quelques bugs de l'application,
+- Rendu l'application en Français [ Application Française ].
+
+***
+
 ## Version [NaN] (Xbox) | Le NaN
 ### Suppression de la version Xbox.
 
