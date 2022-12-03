@@ -1,0 +1,118 @@
+﻿<Page
+    x:Class="SociaLink_Win10.SLSettings"
+    xmlns:local="using:SociaLink_Win10"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:controls="using:Microsoft.Toolkit.Uwp.UI.Controls"
+    xmlns:ui="using:Microsoft.Toolkit.Uwp.UI"
+    ui:ApplicationViewExtensions.Title=""
+    ui:TitleBarExtensions.BackgroundColor="Transparent"
+    ui:TitleBarExtensions.ForegroundColor="White"
+    ui:TitleBarExtensions.ButtonBackgroundColor="Transparent"
+    ui:TitleBarExtensions.ButtonForegroundColor="White"
+    mc:Ignorable="d"
+    Background="{ThemeResource SystemControlAltLowAcrylicWindowBrush}" Loading="Page_Loading">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <!--title bar row-->
+            <RowDefinition Height="Auto" />
+            <!--page content row-->
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <!--title bar grid-->
+        <Grid Grid.Row="0" x:Name="customTitleBar" Height="32" Background="{ThemeResource SystemControlAccentDark2AcrylicWindowAccentDark2MediumHighBrush}">
+            <!-- Title -->
+            <TextBlock Text="SociaLink™ - Paramètres" Foreground="White" VerticalAlignment="Center" Margin="10,0,0,0" FontFamily="Calibri"/>
+        </Grid>
+        <Grid x:Name="MENU" Grid.Row="1">
+            <Grid x:Name="GRID_SETTING_APPS_PAGE">
+                <Grid Height="70" VerticalAlignment="Top" Background="{ThemeResource SystemControlAccentDark2AcrylicWindowAccentDark2MediumHighBrush}">
+                    <Button x:Name="BTN_BACK" ToolTipService.ToolTip="Retour au tableau de bord." ToolTipService.Placement="Bottom" CornerRadius="5" Width="35" Margin="10,0,0,0" BorderThickness="1" Background="Transparent" Style="{StaticResource ButtonRevealStyle}" Height="35" Click="BTN_BACK_Click" RequestedTheme="Dark">
+                        <Viewbox MaxWidth="16" MaxHeight="16">
+                            <SymbolIcon Symbol="Back"/>
+                        </Viewbox>
+                    </Button>
+                    <TextBlock Margin="58,15,14,0" Text="Paramètres de l'application" TextWrapping="WrapWholeWords" FontSize="30" FontWeight="Bold" Height="46" VerticalAlignment="Top" FontFamily="Calibri" RequestedTheme="Dark"/>
+                </Grid>
+                <Grid x:Name="grid" Margin="0,70,0,0" ScrollViewer.HorizontalScrollBarVisibility="Visible">
+                    <ScrollViewer ZoomMode="Enabled" MaxZoomFactor="10" HorizontalScrollMode="Enabled" HorizontalScrollBarVisibility="Disabled" Margin="0,0,0,0">
+                        <StackPanel>
+                            <Grid Height="736">
+                                <Grid Height="24" Margin="20,14,10,0" VerticalAlignment="Top">
+                                    <TextBlock Text="Dark / Light mode" TextWrapping="Wrap" FontSize="20" FontWeight="Bold" FontFamily="Arial" Width="1211" HorizontalAlignment="Left" Height="29" VerticalAlignment="Top"/>
+                                </Grid>
+                                <Grid BorderThickness="1" Height="229" Margin="20,52,20,0" VerticalAlignment="Top" CornerRadius="10,10,10,10">
+                                    <Grid.Background>
+                                        <AcrylicBrush TintColor="#CC2E2E2E" TintOpacity="0.55"/>
+                                    </Grid.Background>
+                                    <Grid x:Name="Grid_Them_View_light" Margin="10,49,0,0" CornerRadius="15,15,15,15" HorizontalAlignment="Left" Width="286" Height="167" VerticalAlignment="Top">
+                                        <Grid.Background>
+                                            <ImageBrush ImageSource="/Assets/ThemeApps/uwp-light.png"/>
+                                        </Grid.Background>
+                                        <Grid CornerRadius="0,0,15,15" RequestedTheme="Dark" Height="39" VerticalAlignment="Bottom">
+                                            <Grid.Background>
+                                                <AcrylicBrush TintOpacity="0.01" TintColor="#CC000000"/>
+                                            </Grid.Background>
+                                            <TextBlock Text="Mode claire" TextWrapping="Wrap" Margin="10,8,5,11" FontSize="18" RequestedTheme="Light"/>
+                                        </Grid>
+                                    </Grid>
+                                    <ToggleSwitch x:Name="tglAppTheme" OffContent="Mode activé : &quot;Sombre&quot; (Par défault)" OnContent="Mode activé : &quot;Claire&quot;" Toggled="ToggleSwitch_Toggled" Margin="10,10,0,0" Width="529" RequestedTheme="Default" VerticalAlignment="Top"/>
+                                    <Grid x:Name="Grid_Them_View_dark" Margin="10,49,0,0" CornerRadius="15,15,15,15" HorizontalAlignment="Left" Width="286" Height="167" VerticalAlignment="Top">
+                                        <Grid.Background>
+                                            <ImageBrush ImageSource="/Assets/ThemeApps/uwp-dark.png"/>
+                                        </Grid.Background>
+                                        <Grid CornerRadius="0,0,15,15" RequestedTheme="Dark" Height="39" VerticalAlignment="Bottom">
+                                            <Grid.Background>
+                                                <AcrylicBrush TintOpacity="0.01" TintColor="#CC000000"/>
+                                            </Grid.Background>
+                                            <TextBlock Text="Mode sombre" TextWrapping="Wrap" Margin="10,8,5,12" FontSize="18" RequestedTheme="Dark"/>
+                                        </Grid>
+                                    </Grid>
+                                </Grid>
+                                <Grid x:Name="GRID_TESTSONDS_APPS" BorderThickness="1" Height="87" Margin="20,610,20,0" VerticalAlignment="Top" CornerRadius="10,10,10,10">
+                                    <Grid.Background>
+                                        <AcrylicBrush TintColor="#CC2E2E2E" TintOpacity="0.55"/>
+                                    </Grid.Background>
+                                    <TextBlock Margin="10,10,-4,0" Text="Le testeur audio et dédier à tester tout les types de sons configurable dans les paramètres Windows compatible. Tester pour avoir un aperçu des sons disponible." TextWrapping="WrapWholeWords" VerticalAlignment="Top" Height="21" FontFamily="Segoe UI"/>
+                                    <ComboBox x:Name="soundSelection" BorderThickness="1" SelectedIndex="1" Margin="10,38,0,0" Width="362" CornerRadius="5,5,5,5">
+                                        <ComboBoxItem Content="Focus"/>
+                                        <ComboBoxItem Content="Invoke"/>
+                                        <ComboBoxItem Content="Show"/>
+                                        <ComboBoxItem Content="Hide"/>
+                                        <ComboBoxItem Content="MoveNext"/>
+                                        <ComboBoxItem Content="MovePrevious"/>
+                                        <ComboBoxItem Content="GoBack"/>
+                                    </ComboBox>
+                                    <Button x:Name="BTN_TESTEAUDIO" BorderThickness="1" Content="▶ Jouer maintenant" ElementSoundMode="Off" Margin="378,39,0,0" VerticalAlignment="Top" Width="173" Click="BTN_TESTEAUDIO_Click" CornerRadius="5,5,5,5" Style="{ThemeResource ButtonRevealStyle}" Height="31"/>
+                                </Grid>
+                                <Grid x:Name="GRID_AUDIO_APPS" BorderThickness="1" Height="122" Margin="20,326,20,0" VerticalAlignment="Top" CornerRadius="10,10,10,10">
+                                    <Grid.Background>
+                                        <AcrylicBrush TintColor="#CC2E2E2E" TintOpacity="0.55"/>
+                                    </Grid.Background>
+                                    <ToggleSwitch x:Name="TOGGLEAUDIO" OffContent="Audio désactivé" OnContent="Audio activé" Margin="10,39,0,0" Width="433" Toggled="TOGGLEAUDIO_Toggled" VerticalAlignment="Top"/>
+                                    <CheckBox x:Name="CECKBSPATIAL" Content="Mode &quot;SPATIAL&quot; ( Cette option désactive le réglage du volume intégrer )" Margin="14,81,0,0" VerticalAlignment="Top" Width="745" Unchecked="CECKBSPATIAL_Unchecked" Checked="CECKBSPATIAL_Checked" />
+                                    <TextBlock Margin="10,10,-2,0" Text="Choisissez si vous souhaitez que l'application joue un son d'interaction ou non." TextWrapping="WrapWholeWords" VerticalAlignment="Top" Height="21" FontFamily="Segoe UI"/>
+                                </Grid>
+                                <Grid x:Name="GRID_VOLUM_APPS" BorderThickness="1" Height="80" Margin="20,487,20,0" VerticalAlignment="Top" CornerRadius="10,10,10,10">
+                                    <Grid.Background>
+                                        <AcrylicBrush TintColor="#CC2E2E2E" TintOpacity="0.55"/>
+                                    </Grid.Background>
+                                    <TextBlock Margin="10,10,-2,0" Text="Régler le volume de l'application ici..." TextWrapping="WrapWholeWords" VerticalAlignment="Top" Height="21" FontFamily="Segoe UI"/>
+                                    <Slider x:Name="SLIDEVOLUM" Maximum="100" Minimum="0" AutomationProperties.Name="Slider with ticks" TickFrequency="10" TickPlacement="Outside" Margin="11,40,69,0" Height="33" VerticalAlignment="Top" ValueChanged="SLIDEVOLUM_ValueChanged" />
+                                    <TextBlock x:Name="TXTSTATUSVOLUM" Margin="0,42,11,0" Text="{x:Bind Mode=OneWay, Path=SLIDEVOLUM.Value.ToString()}" TextWrapping="WrapWholeWords" VerticalAlignment="Top" Height="27" FontFamily="Segoe UI" HorizontalAlignment="Right" Width="47" TextAlignment="Center"/>
+                                </Grid>
+                                <TextBlock Margin="23,290,10,0" Text="Son d'interaction de l'application" TextWrapping="WrapWholeWords" VerticalAlignment="Top" Height="33" FontSize="20" FontWeight="Bold" FontFamily="Arial"/>
+                                <TextBlock x:Name="VOLUM_I_TXT" Margin="23,453,10,0" Text="Volume de l'interaction (Ajustable)" TextWrapping="WrapWholeWords" VerticalAlignment="Top" Height="33" FontSize="20" FontWeight="Bold" FontFamily="Arial"/>
+                                <TextBlock Margin="23,576,10,0" Text="Testeur de l'audio" TextWrapping="WrapWholeWords" VerticalAlignment="Top" Height="33" FontSize="20" FontWeight="Bold" FontFamily="Arial"/>
+                                <TextBlock x:Name="TXT_VERSION_APPS" TextWrapping="Wrap" Text="Version de l'application : {LOADING_VERSION_APPS}" Margin="10,0,10,2" FontSize="9" Height="16" VerticalAlignment="Bottom"/>
+                            </Grid>
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>
