@@ -16,8 +16,8 @@
 ## LES DERNIÈRES MISES À JOURS / VERSIONS :
 | Status | Plateform | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version | Lien vers le Microsoft Store |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| ![Status](https://img.shields.io/badge/PROCHAINEMENT-blue) | PC | 10/11/2022 | 10/12/2022 | 3.1012.2022.0 | SociaLink™ | <a target="_blank" href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-3101220220-pc--le-12-dec-2022">En lire plus</a> | :x: <!-- [![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9MVJ546GBQ6L) --> |
-| ![Status](https://img.shields.io/badge/DISPONIBLE-green) | PC | 10/11/2022 | 28/11/2022 | 3.2811.2022.0 | SociaLink™ | <a target="_blank" href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-3281120220-pc--le-28-nov-2022">En lire plus</a> | [![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9MVJ546GBQ6L) |
+| ![Status](https://img.shields.io/badge/DISPONIBLE-green) | PC | 10/11/2022 | 04/12/2022 | 3.1012.2022.0 | SociaLink™ | <a target="_blank" href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-3101220220-pc--le-12-dec-2022">En lire plus</a> | [![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9MVJ546GBQ6L) |
+| ![Status](https://img.shields.io/badge/INDISPONIBLE-red) | PC | 10/11/2022 | 28/11/2022 | 3.2811.2022.0 | SociaLink™ | <a target="_blank" href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-3281120220-pc--le-28-nov-2022">En lire plus</a> | :x: <!-- [![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9MVJ546GBQ6L) --> |
 | ![Status](https://img.shields.io/badge/RESERVÉ-orange) | PC | N/A | N/A | N/A | SociaLink™ For Messenger | N/A | :x: <!--[![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9MVJ546GBQ6L)--> |
 | ![Status](https://img.shields.io/badge/INDISPONIBLE-red) | Console Xbox², PC | 10/11/2022 | 24/11/2022 | 3.2211.2022.0 | SociaLink™ | <a target="_blank" href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-3221120220--le-24-nov-2022">En lire plus</a> | :x: <!--[![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9MVJ546GBQ6L)--> |
 | ![Status](https://img.shields.io/badge/INDISPONIBLE-red) | Console Xbox² | 10/11/2022 | NaN | NaN | SociaLink™ | <a target="_blank" href="https://github.com/SIDL-C0R0RATI0N/SociaLink/edit/main/CHANGELOG.md#version-nan-xbox--le-nan">En lire plus</a> | :x: <!--[![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9MVJ546GBQ6L)--> |
@@ -27,13 +27,13 @@
   ### Minimum :
   | Disponible | Système d'exploitation | Architecture | Clavier | Souris | DirectX | Mémoire | Mémoire vidéo | Interaction tactile | Processeur | Processeur graphique |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-  | ~~Console Xbox~~², PC | Windows 10* | X86, X64, ARM64 | Clavier Intégré | Souris Intégré | Version 9 | 750 Mo | 1 Go | Non Spécifié | Intel Core i7 | NVIDIA GeForce GT 620 |
+  | ~~Console Xbox~~², PC | Windows 10*, Windows 11 | X86, X64, ARM64 | Clavier Intégré | Souris Intégré | Version 9 | 750 Mo | 1 Go | Non Spécifié | Intel Core i7 | NVIDIA GeForce GT 620 |
   
 
   ### Recommandé :
   | Disponible | Système d'exploitation | Architecture | Clavier | Souris | DirectX | Mémoire | Mémoire vidéo | Interaction tactile | Processeur | Processeur graphique |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-  | ~~Console Xbox~~², PC | Windows 10* | X86, X64, ARM64 | Clavier Intégré | Souris Intégré | Version 11 | 12 Go | 6 Go | Interaction tactile intégrée | Intel Core i9 | NVIDIA Ampere A100 |
+  | ~~Console Xbox~~², PC | Windows 10*, Windows 11 | X86, X64, ARM64 | Clavier Intégré | Souris Intégré | Version 11 | 12 Go | 6 Go | Interaction tactile intégrée | Intel Core i9 | NVIDIA Ampere A100 |
   
   > (* : Windows 10 version 18362.0 ou supérieure).<br/>
   > (² : La version Xbox seras ainsi indisponible lors de la mise à jour **3.2811.2022.0**). 
@@ -87,10 +87,9 @@ Le réseau SociaLink™, à ainsi penser aux Artistes et Influenceurs, pour leur
 |:-:|:-:|
 | Publié par | <a target="_blank" href="https://apps.microsoft.com/store/search?publisher=SIDL%20CORPORATION">SIDL CORPORATION</a> |
 | Date de sortie | 10/11/2022 |
-| Mise à jour | 28/11/2022 |
+| Mise à jour | 10/12/2022 |
 | Catégorie | Social |
-| Taille approximative | 33,9 Mo |
-| Langues prises en charge | Allemand, Anglais, Espagnol, Français |
-| Version PC | 3.2811.2022.0 |
-| Version Xbox | 3.2211.2022.70 (Indisponible) |
+| Taille approximative | 34,2 Mo |
+| Langues prises en charge | Allemand, Anglais, Espagnol, Français, Polonais |
+| Version PC | 3.1012.2022.0 |
 
