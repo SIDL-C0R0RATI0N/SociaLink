@@ -26,7 +26,7 @@
 ## LES DERNIÈRES MISES À JOURS / VERSIONS :
 | Status | Type | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version | Lien vers le Microsoft Store |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 🟠 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 10/11/2022 | 16/12/2022 | 3.1612.2022.0 | SociaLink™ | <a target="_blank" href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-3161220220-pc--le-16-dec-2022">En lire plus</a> |  :x: <!-- [![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9MVJ546GBQ6L) --> |
+| 🟠 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 10/11/2022 | 10/12/2022 | 3.1012.2022.0 | SociaLink™ | <a target="_blank" href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-3161220220-pc--le-16-dec-2022">En lire plus</a> |  :x: <!-- [![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9MVJ546GBQ6L) --> |
 | 🔴 | <img src="https://img.shields.io/badge/EXE-red.svg?style=for-the-badge" alt="Platform" /> | N/A | N/A | N/A | SociaLink™ For Messenger | N/A | :x: <!--[![MicrosoftStore](https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft)](https://www.microsoft.com/store/apps/9MVJ546GBQ6L)--> |
 
 <details><summary>ℹ INFORMATIONS</summary>
@@ -67,7 +67,7 @@
   | Catégorie | Social |
   | Taille approximative | NaN Mo |
   | Langues prises en charge | Allemand, Anglais, Français |
-  | Version | 3.1612.2022.0 |
+  | Version | 3.1012.2022.0 |
 
   </p>
   </details>
