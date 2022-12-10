@@ -1,5 +1,18 @@
 # Journale des dernières mises à jour de l'application
 
+## Version [3.1512.2022.0] (PC) | Le 15 dec. 2022
+### Mise à jour cummulative de l'application PC.
+
+- Supprimer la version Polonaise et Espagnole,
+- Corriger les bugs de sécurité de l'application,
+- Ajouts du journal de mise à jour dans les paramètres.
+
+>🎉 NOUVEAU : 
+>
+>Pour Noël 🎄, nous vous offrons comme cadeau 🎁 les appels vidéo / audio ainsi que les live à partir du 15 Décembre 2022 jusqu'au 15 Janvier 2023.
+
+***
+
 ## Version [3.1012.2022.0] (PC) | Le 12 dec. 2022
 ### Mise à jour cummulative de l'application PC.
 
