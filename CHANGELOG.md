@@ -1,9 +1,8 @@
 # Journale des dernières mises à jour de l'application
 
-## Version [3.1612.2022.0] (PC) | Le 16 dec. 2022
+## Version [3.1012.2022.0] (PC) | Le 10 dec. 2022
 ### Mise à jour de correction de bugs (Microsoft Store).
 
-- Supprimer la version Polonaise et Espagnole,
 - Corriger les bugs de sécurité de l'application,
 - Ajouts du journal de mise à jour dans les paramètres.
 - Correction de la version sur le Microsoft Store.
