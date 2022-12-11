@@ -1,6 +1,6 @@
 {
     "name": "SociaLink",
-    "version": "",
+    "version": "1.1112.2022",
     "main": "https://www.socialink.fr/",
     "scripts": {
         "open-app": "gulp open-app",
