@@ -15,10 +15,10 @@
   </a>
   <a style="text-decoration:none" href="https://github.com/SIDL-C0R0RATI0N/SociaLinkN/releases">
     <img src="https://img.shields.io/github/v/release/SIDL-C0R0RATI0N/SociaLink?include_prereleases&sort=date&style=for-the-badge" alt="Releases" />
-  </a> <!--
-  <a style="text-decoration:none" href="https://www.microsoft.com/store/apps/">
+  </a>
+  <a style="text-decoration:none" href="https://www.microsoft.com/store/apps/9PNKZ53P50WQ">
     <img src="https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft" alt="Microsoft Store" />
-  </a> -->
+  </a>
 </p>
 
 ***
@@ -29,6 +29,17 @@
 | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | N/A | 1.1112.2022.0 | SociaLink | <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-1111220220--11-d%C3%A9cembre-2022" target="_blank">Lire ici</a> |
 | 🔴 | <img src="https://img.shields.io/badge/EXE-red.svg?style=for-the-badge" alt="Platform" /> | N/A | N/A | N/A | SociaLink™ For Messenger | N/A |
 
+<details><summary>🔁 PROCHAINE MISES À JOURS</summary>
+  <p>
+
+  | Status | Version | Date | Plateform | Nom de l'application | Correctif / Ajouts |
+  | ------ | ------- | ---- | --------- | -------------------- | ------------------ |
+  | 🟠 | 1.1712.2022.0 | 17/12/2022 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink | [A] Allemand, [C] Sécurité |
+
+> [A] = _Ajouts_ | [C] = Correctif
+  </p>
+</details>
+                                                                                             
 <details><summary>ℹ INFORMATIONS</summary>
   <p>
 
