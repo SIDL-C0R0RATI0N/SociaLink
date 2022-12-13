@@ -39,6 +39,18 @@
 > [A] = _Ajouts_ | [C] = Correctif
   </p>
 </details>
+
+<details><summary>👨‍💻 TESTER LES PROCHAINES VERSIONS</summary>
+  <p>
+
+  | Status | Type de version | Version | Nom de l'application | Plateform | Inscription Bêta/Testeur |
+  | ------ | --------------- | ------- | -------------------- | --------- | ------------------------ |
+  | 🔴 | <img src="https://img.shields.io/badge/PREVIEW-orange.svg?style=for-the-badge" alt="PREVIEW" /> | 2.1001.2023.0 | SociaLink (Preview) | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | <a target="_blank" href="mailto:developers@sidl-corporation.fr?subject=Demande%20pour%20tester%20la%20version%20PREVIEW%20de%20SociaLink&body=Bonjour%2C%0A%0AJe%20souhaiterais%20obtenir%20la%20version%20PREVIEW%20de%20l'application%20SociaLink%2C%20dont%20voici%20mes%20informations%20ci-dessous%20%3A%20%0A%0AEmail%20compte%20Microsoft%20%3A%20%0ALangue%20%3A%20%0APays%20%3A%20%0A%0AJ'ai%20ainsi%20conscience%20que%20mes%20informations%20ne%20seront%20en%20aucun%20cas%20publi%C3%A9%20sur%20le%20net%2C%20mes%20seulement%20pour%20obtenir%20la%20version%20PREVIEW%20de%20l'application.">S'INSCRIRE MAINTENANT</a> |
+
+  > **Warning**
+  > Sachez que si vous souhaitez tester la version _**PREVIEW**_, vous devez vous inscrire à partir d'un lien dédier car la version _**PREVIEW**_ n'est pas disponible    au publique.
+  </p>
+</details>
                                                                                              
 <details><summary>ℹ INFORMATIONS</summary>
   <p>
