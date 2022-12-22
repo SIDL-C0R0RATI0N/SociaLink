@@ -26,7 +26,7 @@
 ## LES DERNIÈRES MISES À JOURS / VERSIONS :
 | Status | Type | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | N/A | 1.1112.2022.0 | SociaLink | <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-1111220220--11-d%C3%A9cembre-2022" target="_blank">Lire ici</a> |
+| 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | 22/12/2022 | 1.2212.2022.0 | SociaLink | <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-1221220220--22-d%C3%A9cembre-2022" target="_blank">Lire ici</a> |
 | 🔴 | <img src="https://img.shields.io/badge/EXE-red.svg?style=for-the-badge" alt="Platform" /> | N/A | N/A | N/A | SociaLink™ For Messenger | N/A |
 
 <details><summary>🔁 PROCHAINE MISES À JOURS</summary>
@@ -34,9 +34,9 @@
 
   | Status | Version | Date | Plateform | Nom de l'application | Correctif / Ajouts |
   | ------ | ------- | ---- | --------- | -------------------- | ------------------ |
-  | 🟠 | 1.1712.2022.0 | 17/12/2022 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink | [A] Allemand, [C] Sécurité |
+  | 🟠 | 2.1001.2023.0 | 10/01/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink | :x: |
 
-> [A] = _Ajouts_ | [C] = Correctif
+> [A] = _Ajouts_ | [C] = _Correctif_
   </p>
 </details>
 
@@ -86,11 +86,11 @@
   |:-:|:-:|
   | Publié par | <a target="_blank" href="https://apps.microsoft.com/store/search?publisher=SIDL%20CORPORATION">SIDL CORPORATION</a> |
   | Date de sortie | 11/12/2022 |
-  | Mise à jour | N/A |
+  | Mise à jour | 22/12/2022 |
   | Catégorie | Social |
   | Taille approximative | 33 Mo |
-  | Langues prises en charge | Anglais, Français |
-  | Version | 1.1112.2022.0 |
+  | Langues prises en charge | Anglais, Français, Allemand |
+  | Version | 1.2212.2022.0 |
 
   </p>
   </details>
