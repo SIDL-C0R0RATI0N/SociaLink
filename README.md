@@ -24,22 +24,25 @@
 ***
 
 ## LES DERNIÈRES MISES À JOURS / VERSIONS :
-| Status | Type | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 🟠 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | 10/01/2023 | 2.1001.2023.0 | SociaLink | <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-2100120230--10-janvier-2023" target="_blank">Lire ici</a> |
-| 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | 22/12/2022 | 1.2212.2022.0 | SociaLink | <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-1221220220--22-d%C3%A9cembre-2022" target="_blank">Lire ici</a> |
-| 🔴 | <img src="https://img.shields.io/badge/EXE-red.svg?style=for-the-badge" alt="Platform" /> | N/A | N/A | N/A | SociaLink™ For Messenger | N/A |
 
-<details><summary>🔁 PROCHAINE MISES À JOURS</summary>
-  <p>
+<details><summary> <h3> APPLICATION WINDOWS</h3></summary>
+  <p><br/>
+  <img src="https://img.shields.io/badge/VERSION%20WINDOWS%2010%20/%20WINDOWS%2011-blue.svg?style=for-the-badge&logo=windows" alt="Platform" />
+  
+  | Status | Type | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version |
+  |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+  | 🟠 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | 10/01/2023 | 2.1001.2023.0 | SociaLink | <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-2100120230--10-janvier-2023" target="_blank">Lire ici</a> |
+  | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | 22/12/2022 | 1.2212.2022.0 | SociaLink | <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-1221220220--22-d%C3%A9cembre-2022" target="_blank">Lire ici</a> |
+  | 🔴 | <img src="https://img.shields.io/badge/EXE-red.svg?style=for-the-badge" alt="Platform" /> | N/A | N/A | N/A | SociaLink™ For Messenger | N/A |
 
-  | Status | Version | Date | Plateform | Nom de l'application | Correctif / Ajouts |
-  | ------ | ------- | ---- | --------- | -------------------- | ------------------ |
-  | 🟠 | 2.2501.2023.0 | 25/01/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink | :x: |
-  | 🟠 | 2.1407.2023.0 | 14/07/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink | :x: |
-  | 🟠 | 1.1012.2023.0 | 10/12/2023 | <img src="https://img.shields.io/badge/EXE-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink™ For Messenger | Version initiale |
+  <details><summary>🔁 PROCHAINE MISES À JOURS</summary>
+    <p>
 
-> [A] = _Ajouts_ | [C] = _Correctif_
+   | Status | Version | Date | Plateform | Nom de l'application |
+   |:-:|:-:|:-:|:-:|:-:|
+   | 🟠 | 2.2501.2023.0 | 25/01/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
+   | 🟠 | 2.1407.2023.0 | 14/07/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
+   | 🟠 | 1.1012.2023.0 | 10/12/2023 | <img src="https://img.shields.io/badge/EXE-red.svg?style=for-the-badge" alt="Platform" /> | SociaLink™ For Messenger |
   </p>
 </details>
 
@@ -49,19 +52,42 @@
   | Status | Type de version | Version | Nom de l'application | Plateform | Inscription Bêta/Testeur |
   | ------ | --------------- | ------- | -------------------- | --------- | ------------------------ |
   | 🔴 | <img src="https://img.shields.io/badge/PREVIEW-orange.svg?style=for-the-badge" alt="PREVIEW" /> | 2.1407.2023.0 | SociaLink (Preview) | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | <a target="_blank" href="mailto:developers@sidl-corporation.fr?subject=Demande%20pour%20tester%20la%20version%20PREVIEW%20de%20SociaLink&body=Bonjour%2C%0A%0AJe%20souhaiterais%20obtenir%20la%20version%20PREVIEW%20de%20l'application%20SociaLink%2C%20dont%20voici%20mes%20informations%20ci-dessous%20%3A%20%0A%0AEmail%20compte%20Microsoft%20%3A%20%0ALangue%20%3A%20%0APays%20%3A%20%0A%0AJ'ai%20ainsi%20conscience%20que%20mes%20informations%20ne%20seront%20en%20aucun%20cas%20publi%C3%A9%20sur%20le%20net%2C%20mes%20seulement%20pour%20obtenir%20la%20version%20PREVIEW%20de%20l'application.">S'INSCRIRE MAINTENANT</a> |
-  | 🔴 | <img src="https://img.shields.io/badge/PREVIEW-orange.svg?style=for-the-badge" alt="PREVIEW" /> | 1.0.0.0 | SociaLink (Preview For Android) | <img src="https://img.shields.io/badge/ANDROID-green.svg?style=for-the-badge" alt="Platform" /> | <a target="_blank" href="mailto:developers@sidl-corporation.fr?subject=Demande%20pour%20tester%20la%20version%20PREVIEW%20de%20SociaLink&body=Bonjour%2C%0A%0AJe%20souhaiterais%20obtenir%20la%20version%20PREVIEW%20de%20l'application%20SociaLink%2C%20dont%20voici%20mes%20informations%20ci-dessous%20%3A%20%0A%0AEmail%20compte%20Microsoft%20%3A%20%0ALangue%20%3A%20%0APays%20%3A%20%0A%0AJ'ai%20ainsi%20conscience%20que%20mes%20informations%20ne%20seront%20en%20aucun%20cas%20publi%C3%A9%20sur%20le%20net%2C%20mes%20seulement%20pour%20obtenir%20la%20version%20PREVIEW%20de%20l'application.">S'INSCRIRE MAINTENANT</a> |
 
   > **Warning**
   > Sachez que si vous souhaitez tester la version _**PREVIEW**_, vous devez vous inscrire à partir d'un lien dédier car la version _**PREVIEW**_ n'est pas disponible    au publique.
   </p>
 </details>
-                                                                                             
 <details><summary>ℹ INFORMATIONS</summary>
   <p>
-
-  > 🟢 = _Disponible_ | 🟠 = _En développement_ | 🔴 = _Indisponible_ 
-
+  🟢 = Disponible | 🟠 = En développement | 🔴 = Indisponible_
   </p>
+</details>
+  </p>
+</details>
+
+<details><summary> <h3> APPLICATION ANDROID</h3></summary>
+  <p><br/>
+  <img src="https://img.shields.io/badge/VERSION%20ANDROID-white.svg?style=for-the-badge&logo=android" alt="Platform" />
+  
+  | Status | Type | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version |
+  |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+  | 🔴 | <img src="https://img.shields.io/badge/APK-green.svg?style=for-the-badge" alt="Platform" /> | N/A | N/A | N/A | SociaLink | N/A |
+
+<details><summary>👨‍💻 TESTER LES PROCHAINES VERSIONS</summary>
+<p>
+
+| Status | Type de version | Version | Nom de l'application | Plateform | Inscription Bêta/Testeur |
+| ------ | --------------- | ------- | -------------------- | --------- | ------------------------ |
+| 🔴 | <img src="https://img.shields.io/badge/PREVIEW-orange.svg?style=for-the-badge" alt="PREVIEW" /> | 1.0.0.0 | SociaLink (Preview For Android) | <img src="https://img.shields.io/badge/ANDROID-green.svg?style=for-the-badge" alt="Platform" /> | <a target="_blank" href="mailto:developers@sidl-corporation.fr?subject=Demande%20pour%20tester%20la%20version%20PREVIEW%20de%20SociaLink&body=Bonjour%2C%0A%0AJe%20souhaiterais%20obtenir%20la%20version%20PREVIEW%20de%20l'application%20SociaLink%2C%20dont%20voici%20mes%20informations%20ci-dessous%20%3A%20%0A%0AEmail%20compte%20Microsoft%20%3A%20%0ALangue%20%3A%20%0APays%20%3A%20%0A%0AJ'ai%20ainsi%20conscience%20que%20mes%20informations%20ne%20seront%20en%20aucun%20cas%20publi%C3%A9%20sur%20le%20net%2C%20mes%20seulement%20pour%20obtenir%20la%20version%20PREVIEW%20de%20l'application.">S'INSCRIRE MAINTENANT</a> |
+
+</p>
+</details>
+<details><summary>ℹ INFORMATIONS</summary>
+  <p>
+  🟢 = Disponible | 🟠 = En développement | 🔴 = Indisponible_
+  </p>
+</details>
+</p>
 </details>
 
 ## CONFIGURATION REQUISE :
