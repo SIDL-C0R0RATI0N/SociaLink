@@ -74,7 +74,7 @@
   | Clavier intégrée | ❌ | ❌ |
   | Souris | ✅ | ✅ |
   | DirectX | Version 9 | Version 11 |
-  | Mémoire | 750 Mo | 12 Go |
+  | Mémoire | 750 Mo | 35 Mo |
   | Mémoire vidéo | Non Spécifié | 6 Go |
   | Interaction tactile | Non Spécifié | Interaction tactile intégrée |
   | Processeur | Intel Core i5 | Intel Core i9 |
