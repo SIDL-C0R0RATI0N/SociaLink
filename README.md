@@ -31,8 +31,7 @@
   
   | Status | Type | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-  | 🟠 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | 10/01/2023 | 2.1001.2023.0 | SociaLink | <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-2100120230--10-janvier-2023" target="_blank">Lire ici</a> |
-  | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | 22/12/2022 | 1.2212.2022.0 | SociaLink | <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-1221220220--22-d%C3%A9cembre-2022" target="_blank">Lire ici</a> |
+  | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | 10/01/2023 | 2.1001.2023.0 | SociaLink | <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-2100120230--10-janvier-2023" target="_blank">Lire ici</a> |
   | 🔴 | <img src="https://img.shields.io/badge/EXE-red.svg?style=for-the-badge" alt="Platform" /> | N/A | N/A | N/A | SociaLink™ For Messenger | N/A |
   
   <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/RAPPORT/RAPPORT_V2.1001.2023.0.pdf" target="_blank">Résultats des tests</a>
