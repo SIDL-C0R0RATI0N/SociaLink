@@ -1,6 +1,6 @@
 {
     "name": "SociaLink",
-    "version": "2.1001.2023",
+    "version": "2.1002.2023",
     "main": "https://www.socialink.fr/",
     "scripts": {
         "open-app": "gulp open-app",
@@ -20,5 +20,19 @@
         "SOCIALINK™",
         "SOCIALINK"
     ],
-    "author": "SIDL CORPORATION <support@sidl-corporation.fr> (https://sidl-corporation.fr/)"
+    "author": "SIDL CORPORATION <support@sidl-corporation.fr> (https://sidl-corporation.fr/)",
+    "prefer_related_applications": true,
+    "related_applications": 
+    [
+        {
+              "platform": "windows",
+              "url": "https://www.microsoft.com/store/apps/9PNKZ53P50WQ",
+              "id": "9PNKZ53P50WQ"
+        },
+        {
+              "platform": "play",
+              "url": "https://play.google.com/store/apps/details?id=com.sidlcorporation.socialink",
+              "id": "com.sidlcorporation.socialink"
+        }
+      ]
 }
