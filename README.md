@@ -31,10 +31,10 @@
   
   | Status | Type | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-  | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | 10/01/2023 | 2.1001.2023.0 | SociaLink | <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-2100120230--10-janvier-2023" target="_blank">Lire ici</a> |
+  | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | 10/02/2023 | 2.1002.2023.0 | SociaLink | <!--<a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-2100120230--10-janvier-2023" target="_blank">Lire ici</a>--> No Changlog |
   | 🔴 | <img src="https://img.shields.io/badge/EXE-red.svg?style=for-the-badge" alt="Platform" /> | N/A | N/A | N/A | SociaLink™ For Messenger | N/A |
   
-  <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/RAPPORT/RAPPORT_V2.1001.2023.0.pdf" target="_blank">Résultats des tests</a>
+  <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/RAPPORT/RAPPORT_V2.1002.2023.0.pdf" target="_blank">Résultats des tests</a>
 
   <details><summary>🔁 PROCHAINE MISES À JOURS</summary>
     <p>
@@ -43,11 +43,6 @@
     
    | Status | Version | Date | Plateform | Nom de l'application |
    |:-:|:-:|:-:|:-:|:-:|
-   | 🔴 | 2.1002.2023.0 | 10/02/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
-   | 🔴 | 2.1003.2023.0 | 10/03/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
-   | 🔴 | 2.1004.2023.0 | 10/04/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
-   | 🔴 | 2.1005.2023.0 | 10/05/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
-   | 🔴 | 2.1006.2023.0 | 10/06/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
    | 🔴 | 2.1007.2023.0 | 10/07/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
    | 🔴 | 2.1008.2023.0 | 10/08/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
    | 🔴 | 2.1009.2023.0 | 10/09/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
