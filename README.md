@@ -1,7 +1,7 @@
 ## SociaLink
 
 <p align="center">
-  <img width="128" align="center" src="https://www.socialink.fr/themes/wondertag/img/icon.png">
+  <img width="128" align="center" src="https://www.socialink.fr/themes/sunlight/img/icon.png">
 </p>
 <h1 align="center">
   SociaLink
