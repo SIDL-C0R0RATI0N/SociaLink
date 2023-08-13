@@ -1,36 +1,21 @@
-Editer le 11/12/2022
-Mise à jour le 10/01/2023
-Version 2.1001.2023.0
+MIT License
 
-Cette licence à pour but de protégé le contenue, l'application par des personnes malveillantes, ainsi, de prévenir des droits d'auteurs lié à l'application.
+Copyright (c) 2023 SIDL CORPORATION
 
-L'application et disponible sur le Microsoft Store depuis le 11/12/2022, qui as était ainsi approuvé par Microsoft.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-L'application "SociaLink™" et/ou le site, ainsi que les Logos, Icônes, Images, Codages, Noms ou toutes autres fonctionnalités ajouté en cours de route lors de la mise à jour de l'application ou du site, sont des propriété de l'entreprise SIDL CORPORATION, immatriculé en France sous les numéros suivant :
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-SIRET : 811 910 603 00042
-SIREN : 811 910 603
-
-Seul l'éditeur de l'application et/ou du site internet SociaLink™ (www.socialink.fr), peut modifier, mettre à jours les Conditions Générales d'Utilisations, Politique de Confidentialité et toutes autres règles commes la Publicité inclus sur le réseau ou encore modifier l'application.
-
-Le code source de l'application n'est en aucun cas disponible, dont ne peut êtres modifier par le publique voulent obtenir le code source. Le code source de la version 2.1.0.0 de l'application et disponible ici (https://github.com/SIDL-C0R0RATI0N/SociaLink/tree/b%C3%AAta).
-
-L'application et/ou le site internet ne sont en aucun cas destiné à une utilisation commerciale ou éducatifs.
-
-Pour l'utilisation des services, merci de lire les Conditions Générales d'Utilisations, ainsi, le réseau social interdit les inscription et d'utilisation de toutes personnes ayant moins de 12/14 ans.
-
-En cas de bugs, problèmes lié a l'application et/ou au site, veuillez nous contacter à "contact@socialink.fr" ou si vous souhaitez signaler directement au développeur "developers@sidl-corporation.fr".
-
-Sachez que vous pouvez nous contacter via le lien ci-dessous :
-
-https://www.socialink.fr/contact-us
-
-Veuillez notez que toutes propositions commerciale, spams ou toutes autres ne relèvent pas à une prise de contact suite à une erreurs, seront considéré comme spam et seront bloquer.
-
-En cas de problème avec votre abonnement, veuillez ainsi nous contacter à "contact@socialink.fr" ou si vous souhaitez résilié, vous pouvez le faire directement sur l'application et/ou le site via le lien ci-dessous :
-
-https://www.socialink.fr/terms/refund
-
-***
-
-L'utilisation des services peuvent ainsi êtres changer à tout moments. Ainsi, pour profiter d'un meilleurs service, veuillez vérifiez que vous êtes éligible aux inscriptions, ainsi d'être MAJEUR et d'utiliser un adresse mail fonctionnel. Veuillez bien prendre en compte que vous pouvez êtres ainsi bannis du réseau si vous ne respectez en aucun cas le règlements d'utilisation.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
