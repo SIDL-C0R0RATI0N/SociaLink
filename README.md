@@ -34,8 +34,7 @@
   
   | Status | Type | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-  | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | 10/02/2023 | 2.1002.2023.0 | SociaLink | <!--<a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-2100120230--10-janvier-2023" target="_blank">Lire ici</a>--> No Changlog |
-  | 🔴 | <img src="https://img.shields.io/badge/EXE-red.svg?style=for-the-badge" alt="Platform" /> | N/A | N/A | N/A | SociaLink™ For Messenger | N/A |
+  | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | 10/02/2023 | 2.1002.2023.0 | SociaLink | <!--<a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-3100920230--10-septembre-2023" target="_blank">Lire ici</a>--> No Changelog |
   
   <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/RAPPORT/RAPPORT_V2.1002.2023.0.pdf" target="_blank">Résultats des tests</a>
 
@@ -46,15 +45,9 @@
     
    | Status | Version | Date | Plateform | Nom de l'application |
    |:-:|:-:|:-:|:-:|:-:|
-   | ✖️ | NaN/NaN | NaN/NaN | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
+   | 🟠 | 3.1009.2023.0 | 10/09/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
    
-   Version Windows 10/11 (.EXE)
-   
-   | Status | Version | Date | Plateform | Nom de l'application |
-   |:-:|:-:|:-:|:-:|:-:|
-   | ✖️ | NaN/NaN | NaN/NaN | <img src="https://img.shields.io/badge/EXE-red.svg?style=for-the-badge" alt="Platform" /> | SociaLink™ For Messenger |
-   
-  </p>
+ </p>
 </details>
 
 <details><summary>👨‍💻 TESTER LES PROCHAINES VERSIONS</summary>
@@ -62,7 +55,7 @@
 
   | Status | Type de version | Version | Nom de l'application | Plateform | Inscription Bêta/Testeur |
   | ------ | --------------- | ------- | -------------------- | --------- | ------------------------ |
-  | 🔴 | <img src="https://img.shields.io/badge/PREVIEW-orange.svg?style=for-the-badge" alt="PREVIEW" /> | 2.1002.2023.0 | SociaLink (Preview) | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | <a target="_blank" href="mailto:developers@sidl-corporation.fr?subject=Demande%20pour%20tester%20la%20version%20PREVIEW%20de%20SociaLink&body=Bonjour%2C%0A%0AJe%20souhaiterais%20obtenir%20la%20version%20PREVIEW%20de%20l'application%20SociaLink%2C%20dont%20voici%20mes%20informations%20ci-dessous%20%3A%20%0A%0AEmail%20compte%20Microsoft%20%3A%20%0ALangue%20%3A%20%0APays%20%3A%20%0A%0AJ'ai%20ainsi%20conscience%20que%20mes%20informations%20ne%20seront%20en%20aucun%20cas%20publi%C3%A9%20sur%20le%20net%2C%20mes%20seulement%20pour%20obtenir%20la%20version%20PREVIEW%20de%20l'application.">S'INSCRIRE MAINTENANT</a> |
+  | ✖️ | <img src="https://img.shields.io/badge/NaN-black.svg?style=for-the-badge" alt="NaN" /> | NaN/NaN | SociaLink (Preview) | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | <a target="_blank" href="mailto:developers@sidl-corporation.fr?subject=Demande%20pour%20tester%20la%20version%20PREVIEW%20de%20SociaLink&body=Bonjour%2C%0A%0AJe%20souhaiterais%20obtenir%20la%20version%20PREVIEW%20de%20l'application%20SociaLink%2C%20dont%20voici%20mes%20informations%20ci-dessous%20%3A%20%0A%0AEmail%20compte%20Microsoft%20%3A%20%0ALangue%20%3A%20%0APays%20%3A%20%0A%0AJ'ai%20ainsi%20conscience%20que%20mes%20informations%20ne%20seront%20en%20aucun%20cas%20publi%C3%A9%20sur%20le%20net%2C%20mes%20seulement%20pour%20obtenir%20la%20version%20PREVIEW%20de%20l'application.">S'INSCRIRE MAINTENANT</a> |
 
   > **Warning**
   > Sachez que si vous souhaitez tester la version _**PREVIEW**_, vous devez vous inscrire à partir d'un lien dédier car la version _**PREVIEW**_ n'est pas disponible    au publique.
@@ -82,14 +75,14 @@
   
   | Status | Type | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-  | 🟢 | <img src="https://img.shields.io/badge/APK-green.svg?style=for-the-badge" alt="Platform" /> | 19/06/2023 | 19/07/2023 | 2023.2007.1410.0 | SociaLink | N/A |
+  | 🟢 | <img src="https://img.shields.io/badge/APK-green.svg?style=for-the-badge" alt="Platform" /> | 19/06/2023 | 23/07/2023 | 1.2023.2207.1825 | SociaLink | Dans cette nouvelle mise à jour, nous avons améliorer la performance et la sécurité. |
 
 <details><summary>👨‍💻 TESTER LES PROCHAINES VERSIONS</summary>
 <p>
 
 | Status | Type de version | Version | Nom de l'application | Plateform | Inscription Bêta/Testeur |
 | ------ | --------------- | ------- | -------------------- | --------- | ------------------------ |
-| 🟠 | <img src="https://img.shields.io/badge/PREVIEW-orange.svg?style=for-the-badge" alt="PREVIEW" /> | 1.2023.2207.1825 | SociaLink (BÊTA) | <img src="https://img.shields.io/badge/ANDROID-green.svg?style=for-the-badge" alt="Platform" /> | <a target="_blank" href="https://play.google.com/apps/testing/com.sidlcorporation.socialink">S'INSCRIRE MAINTENANT</a> |
+| 🔴 | <img src="https://img.shields.io/badge/PREVIEW-orange.svg?style=for-the-badge" alt="PREVIEW" /> | 1.2023.1009.0000 | SociaLink (BÊTA) | <img src="https://img.shields.io/badge/ANDROID-green.svg?style=for-the-badge" alt="Platform" /> | <a target="_blank" href="https://play.google.com/apps/testing/com.sidlcorporation.socialink">S'INSCRIRE MAINTENANT</a> |
 
 </p>
 </details>
@@ -106,12 +99,12 @@
   |            | Minimum | Recommandé |
   | ---------- | ------- | ---------- |
   | Plateforme | PC | PC |
-  | OS | Windows 10* | Windows 10 / Windows 11² |
-  | Architecture | X86 / X64 | X86, X64, ARM64 |
+  | OS | Windows 10 | Windows 10 |
+  | Architecture | X86, X64, ARM64 | X86, X64, ARM64 |
   | Clavier intégrée | ❌ | ❌ |
   | Souris | ✅ | ✅ |
   | DirectX | Version 9 | Version 11 |
-  | Mémoire | 750 Mo | 35 Mo |
+  | Mémoire | 750 Mo | 2 Go |
   | Mémoire vidéo | Non Spécifié | 6 Go |
   | Interaction tactile | Non Spécifié | Interaction tactile intégrée |
   | Processeur | Intel Core i5 | Intel Core i9 |
@@ -129,9 +122,9 @@
   | Date de sortie | 11/12/2022 |
   | Mise à jour | 10/01/2023 |
   | Catégorie | Social |
-  | Taille approximative | 1.26 Go |
+  | Taille approximative | 250 Mo |
   | Langues prises en charge | Anglais, Français, Allemand |
-  | Version | 2.1001.2023.0 |
+  | Version | 2.1002.2023.0 |
 
   </p>
   </details>
