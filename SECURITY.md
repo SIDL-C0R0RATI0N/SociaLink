@@ -6,7 +6,7 @@ Les versions d'application prise en charge.
 
 | Plateform | Version | Prise en charge    |
 | :-: | :-: | :-: |
-| PC | 2.1001.2023.0   | :white_check_mark: |
+| PC | 3.3009.2023.0   | :white_check_mark: |
 
 ## Signaler une vulnérabilité
 
