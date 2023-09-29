@@ -1,4 +1,4 @@
-## SociaLink
+﻿## SociaLink
 
 <p align="center">
   <img width="128" align="center" src="https://www.socialink.fr/themes/sunlight/img/icon.png">
@@ -45,7 +45,7 @@
     
    | Status | Version | Date | Plateform | Nom de l'application |
    |:-:|:-:|:-:|:-:|:-:|
-   | 🟠 | 3.1009.2023.0 | 10/09/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
+   | 🟠 | 3.3009.2023.0 | 10/10/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
    
  </p>
 </details>
