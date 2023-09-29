@@ -122,7 +122,7 @@
   | Date de sortie | 11/12/2022 |
   | Mise à jour | 30/09/2023 |
   | Catégorie | Social |
-  | Taille approximative | 250 Mo |
+  | Taille approximative | 33,9 Mo |
   | Langues prises en charge | Anglais, Français, Allemand |
   | Version | 3.3009.2023.0 |
 
