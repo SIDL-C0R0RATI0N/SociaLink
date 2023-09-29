@@ -1,5 +1,23 @@
 # Journale des dernières mises à jour de l'application
 
+## Version [3.3009.2023.0] | 30 Septembre 2023
+### Mise à jour majeur.
+
+- Mise à jour de l'interface utilisateur,
+- Mise à jour de la compatibilité sur Windows 11,
+- Mise à jour des paramètres de l'application,
+- Ajouts d'un système de mise à jour interne,
+- Ajouts d'un système de notification des mises à jours,
+- Ajouts d'un systèmes de notification envoyer par le développeur,
+- Ajouts d'un espace dèdier à la licence et au avis de non-responsabilité,
+- Ajouts d'un menu d'application latérale gauche cacher,
+- Suppression de la dépendance "WebView 2 Runtime",
+- Suppression de la section dédiée a la dépendance,
+- Correction de plus de 50 bugs lié à la dernière version (2.1002.2023.0),
+- Correction de l'orthographe des langues déjà disponible.
+
+***
+
 ## Version [2.1001.2023.0] | 10 Janvier 2023
 ### Mise à jour majeur.
 

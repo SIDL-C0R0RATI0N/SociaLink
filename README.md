@@ -6,7 +6,7 @@
 <h1 align="center">
   SociaLink
   <p align="center">
-    <a href="https://www.socialink.fr/" style="font-size:10px; target="_blank">www.socialink.fr</a>
+    <a href="https://www.socialink.fr/" style="font-size:10px;" target="_blank">www.socialink.fr</a>
   </p>
 </h1>
 <p align="center">
@@ -34,9 +34,9 @@
   
   | Status | Type | Sortie le | Mise à jour | Version | Nom de l'application | Nouveautés dans la version |
   |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-  | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | 10/02/2023 | 2.1002.2023.0 | SociaLink | <!--<a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-3100920230--10-septembre-2023" target="_blank">Lire ici</a>--> No Changelog |
+  | 🟢 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | 11/12/2022 | 30/09/2023 | 3.3009.2023.0 | SociaLink | <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/CHANGELOG.md#version-3300920230--30-septembre-2023" target="_blank">Lire ici</a> |
   
-  <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/RAPPORT/RAPPORT_V2.1002.2023.0.pdf" target="_blank">Résultats des tests</a>
+  <a href="https://github.com/SIDL-C0R0RATI0N/SociaLink/blob/main/RAPPORT/RAPPORT_V3.3009.2023.0.pdf" target="_blank">Résultats des tests</a>
 
   <details><summary>🔁 PROCHAINE MISES À JOURS</summary>
     <p>
@@ -45,7 +45,7 @@
     
    | Status | Version | Date | Plateform | Nom de l'application |
    |:-:|:-:|:-:|:-:|:-:|
-   | 🟠 | 3.3009.2023.0 | 10/10/2023 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
+   | 🟠 | 3.1501.2024.0 | 15/01/2024 | <img src="https://img.shields.io/badge/UWP-orange.svg?style=for-the-badge" alt="Platform" /> | SociaLink |
    
  </p>
 </details>
@@ -99,8 +99,8 @@
   |            | Minimum | Recommandé |
   | ---------- | ------- | ---------- |
   | Plateforme | PC | PC |
-  | OS | Windows 10 | Windows 10 |
-  | Architecture | X86, X64, ARM64 | X86, X64, ARM64 |
+  | OS | Windows 10, Windows 11 | Windows 10, Windows 11 |
+  | Architecture | X86, X64 | X86, X64 |
   | Clavier intégrée | ❌ | ❌ |
   | Souris | ✅ | ✅ |
   | DirectX | Version 9 | Version 11 |
@@ -120,11 +120,11 @@
   |:-:|:-:|
   | Publié par | <a target="_blank" href="https://apps.microsoft.com/store/search?publisher=SIDL%20CORPORATION">SIDL CORPORATION</a> |
   | Date de sortie | 11/12/2022 |
-  | Mise à jour | 10/01/2023 |
+  | Mise à jour | 30/09/2023 |
   | Catégorie | Social |
   | Taille approximative | 250 Mo |
   | Langues prises en charge | Anglais, Français, Allemand |
-  | Version | 2.1002.2023.0 |
+  | Version | 3.3009.2023.0 |
 
   </p>
   </details>
@@ -133,7 +133,7 @@
   <p>
 
   > (* : Windows 10 version 18362.0 ou supérieure).<br/>
-  > (² : L'application peut-être compatible sur Windows 11, mes jamais testé par le développeur). 
+  > (² : L'application est compatible sur Windows 11). 
 
   </p>
   </details>
@@ -158,11 +158,17 @@ Et bien plus encore...
 
 ## DESCRIPTION :
 
-SociaLink™, le nouveau réseau social, à pour but de rendre le sociale plus libre, plus transparent, avec un choix de personnalisation plus avancé et une liberté d'expression dédier. La communauté offre ainsi une assistance. Le compte officiel du réseau publie régulièrement des nouveautés qui cible simplement le réseau social. N'hésitez pas à vous renseignez ou à lire les articles sur le forum.
+SociaLink est une plateforme de réseau social où vous pouvez connecter avec vos amis, partager des moments, et suivre vos intérêts. Partagez des photos, des vidéos, et discutez avec vos amis instantanément. Vous pouvez également découvrir les dernières tendances en suivant des hashtags, des artistes et des influenceurs.
 
-Si vous souhaitez découvrir un nouvelle environnement, vous pouvez vous inscrire par email.
+Abonnements Premium :
+SociaLink propose des abonnements premium pour une expérience améliorée :
 
-Nous avons ainsi inclus les abonnements "Artiste", "Influenceur", "PRO" & "PRO+" à des prix avantageux.
+- Artiste : Pour les créateurs de contenu avec des outils avancés de gestion de profil.
+- Influenceur : Pour ceux qui veulent gagner en visibilité et promouvoir leur contenu.
+- PRO : Offrant des fonctionnalités de gestion avancées et des analyses approfondies.
+- PRO+ : L'abonnement premium ultime avec des avantages exclusifs et un accès prioritaire aux nouvelles fonctionnalités.
+
+Rejoignez SociaLink dès maintenant pour une expérience sociale enrichie. Téléchargez l'application aujourd'hui !
 
 ## CAPTURE(S) D'ÉCRAN :
 
@@ -171,4 +177,3 @@ Nous avons ainsi inclus les abonnements "Artiste", "Influenceur", "PRO" & "PRO+"
   ![Screenshot 1](https://store-images.s-microsoft.com/image/apps.12481.14342329252450351.c0bf64a7-3904-478c-93b9-8d92e0791776.82f371ce-1bed-424b-b7c4-4c7d7e0e2dc2)
   
   ![Screenshot 2](https://store-images.s-microsoft.com/image/apps.18861.14342329252450351.c0bf64a7-3904-478c-93b9-8d92e0791776.fddb1315-ae99-444b-a927-21314c0c8147)
-  
